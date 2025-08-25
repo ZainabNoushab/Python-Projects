@@ -14,7 +14,7 @@ A simple Python application built with **Streamlit** that allows users to genera
 
 ```bash
 git clone https://github.com/ZainabNoushab/Python-Projects.git
-cd your-repo-name
+cd Python-Projects
 ```
 
 3. Create a virtual environment (optional but recommended):
@@ -56,4 +56,5 @@ Feel free to fork this repository, make improvements, and submit pull requests.
 This project is licensed under the MIT License.
 
 ✨ Built with ❤️ using Python and Streamlit
+
 
